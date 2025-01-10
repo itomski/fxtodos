@@ -1,0 +1,14 @@
+.main {
+    -fx-background-color: #DDDDDD;
+}
+
+.redBorder {
+    -fx-border-color: #ff0000;
+    -fx-border-width: 1;
+}
+
+.list {
+    -fx-border-color: #888888;
+    -fx-border-width: 1;
+    -fx-background-color: transparent;
+}
